@@ -2,7 +2,7 @@ package com.offer;
 
 /**
  * 在不改变原来数据结构的前提下，将一个链表从尾到头打印。
- * 利用递归的方式。
+ * 利用递归的方式。hahaha
  * @author kexun
  *
  */
